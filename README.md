@@ -45,7 +45,16 @@ Regulatory Compliance: Implementing a new financial system that must adhere to s
 
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+To ensure quality assurance throughout a software project, establish clear quality standards, develop an SQA plan, conduct regular reviews, implement comprehensive testing strategies, use CI/CD, track quality metrics, perform audits, manage risks, and provide team training.
+
+Maintaining high standards is crucial because it ensures the delivery of reliable, efficient, and user-friendly software, which enhances customer satisfaction, reduces maintenance costs, and builds a strong reputation for quality.
+
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope contributes to successful project planning by clearly outlining the project’s objectives, deliverables, and boundaries, which helps ensure all stakeholders have a shared understanding, manage expectations, allocate resources effectively, and prevent scope creep
+
+A Work Breakdown Structure (WBS) is a project management tool that breaks down a project into smaller, manageable components, helping to organize tasks, allocate resources, and track progress, ultimately ensuring that all project objectives are met efficiently
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
