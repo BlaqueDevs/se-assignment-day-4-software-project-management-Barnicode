@@ -15,8 +15,20 @@ Risk Management: Identify potential risks early and develop mitigation strategie
 Regular Monitoring: Use project management tools to track progress and make adjustments as needed.
 Team Collaboration: Foster a collaborative environment where team members can work efficiently and support each other.
 Prioritization: Focus on high-priority tasks that are critical to meeting deadlines.
+
+
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Effective cost control contributes to the success of a software project by ensuring the project stays within budget, optimizing resource allocation, mitigating financial risks, building stakeholder confidence, and maintaining project viability.
+
+To prevent budget overruns in software projects, develop a detailed plan, create realistic cost estimates, strive to get an Accurate Esstimation,  manage scope changes, assess risks, monitor progress, communicate with clients, optimize resources, and allocate a contingency budget.
+
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+
+Agile is flexible and iterative, focusing on continuous feedback and collaboration, while Waterfall is structured and linear, emphasizing clear milestones and extensive documentation. Agile allows for adaptability and rapid changes throughout the project, whereas Waterfall follows a fixed sequence of phases, providing predictability and detailed record
+Agile offers flexibility, rapid delivery, and continuous stakeholder feedback, but can lead to unpredictable costs and timelines, while Waterfall provides a clear structure and predictable outcomes, but lacks adaptability and can delay risk detection
+
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
